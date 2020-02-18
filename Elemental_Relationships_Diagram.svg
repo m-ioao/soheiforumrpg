@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="Elemental Relationships Diagram 3.svg" sodipodi:version="0.32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 550 550"
+	 style="enable-background:new 0 0 550 550;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);stroke:#000000;stroke-width:5.6604;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);stroke:#000000;stroke-width:5.6604;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);stroke:#000000;stroke-width:5.6604;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_4_);stroke:#000000;stroke-width:5.6604;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_5_);stroke:#000000;stroke-width:5.6604;}
+	.st5{fill:none;stroke:#000000;stroke-width:11;stroke-linejoin:round;}
+	.st6{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderlayer="false" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" id="base" inkscape:current-layer="svg2" inkscape:cx="592.8945" inkscape:cy="288.50241" inkscape:document-units="px" inkscape:object-nodes="true" inkscape:object-paths="false" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-center="true" inkscape:snap-global="false" inkscape:window-height="930" inkscape:window-width="1280" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:zoom="0.46090506" objecttolerance="50" pagecolor="#ffffff" showborder="true" showgrid="false">
+	</sodipodi:namedview>
+<g id="g12020" transform="translate(142.44294,665.59414)">
+	
+		<radialGradient id="SVGID_1_" cx="193.4871" cy="-535.2511" r="26.5" gradientTransform="matrix(1.8868 0 0 -1.8868 -350.0699 -1238.6985)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#BA771C"/>
+		<stop  offset="1" style="stop-color:#734A12"/>
+	</radialGradient>
+	<path sodipodi:nodetypes="ccccccccc" class="st0" d="M-32.2-247.7L-3.9-276h37.7l28.3,28.3v37.7l-28.3,28.3H-3.9l-28.3-28.3V-247.7
+		z"/>
+	<path d="M17.6-257.1c1.7,0.4,1.8,1.1,0.3,2.2v15.4h20.4v6.2H17.9v26.6h25.4v6.2h-56.6v-6.2h25.2v-26.6H-8.6v-6.2h20.4v-17.7H17.6z"
+		/>
+</g>
+<g id="g12044" transform="translate(450.21128,441.98735)">
+	
+		<radialGradient id="SVGID_2_" cx="-169.2813" cy="-366.6443" r="26.5" gradientTransform="matrix(1.8868 0 0 -1.8868 334.3987 -920.5726)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#00F89E"/>
+		<stop  offset="1" style="stop-color:#00A86B"/>
+	</radialGradient>
+	<path sodipodi:nodetypes="ccccccccc" class="st1" d="M-32.2-247.7L-3.9-276h37.7l28.3,28.3v37.7l-28.3,28.3H-3.9l-28.3-28.3V-247.7
+		z"/>
+	<path d="M-1.6-210.1l12.9-0.5v-10.4H6v4.2H2V-237h9.3v-5l-9.8,0.3l-1.4-5c9.2,0.2,17-0.4,23.2-1.8l3.1,4.7c0.2,1.2-0.3,1.5-1.4,0.8
+		l-9.6,0.8v5.2h9.6v15.9h-9.6v10.2l7.4-0.8l-3.6-5l3.8-2.9c3.3,3.8,6.1,7.9,8.4,12.3l-4.5,3.1l-2.1-3.9l-23.4,3.4
+		c-0.2,1.2-0.6,1.5-1.2,0.8L-1.6-210.1z M36.1-214.1c1.4,3.8,2.4,2.4,2.9-4.2l4.3,3.9c-0.6,5.9-1.6,9.4-2.9,10.4
+		c-2.7,2.3-5.5,0-8.4-6.8c-1.9-4.5-2.9-11-2.9-19.6v-21.9h-31v28.4c0,8.3-2.7,15.6-8.1,21.7l-3.3-5c4.5-4.5,6.7-10.5,6.7-18v-32.1
+		H34v26.6C34-223.4,34.7-217.9,36.1-214.1L36.1-214.1z M20.9-232.8h-5.5v7.6h5.5V-232.8z M11.3-232.8H6v7.6h5.3V-232.8z"/>
+</g>
+<g id="g12068" transform="translate(69.788689,441.98733)">
+	
+		<radialGradient id="SVGID_3_" cx="101.1413" cy="-421.6443" r="26.5" gradientTransform="matrix(1.8868 0 0 -1.8868 -175.8327 -1024.3461)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#51A8FF"/>
+		<stop  offset="1" style="stop-color:#007FFF"/>
+	</radialGradient>
+	<path sodipodi:nodetypes="ccccccccc" class="st2" d="M-32.2-247.7L-3.9-276h37.7l28.3,28.3v37.7l-28.3,28.3H-3.9l-28.3-28.3V-247.7
+		z"/>
+	<path d="M40.4-204.3c-9.6-6.7-17.1-16.5-22.3-29.3v29.1c0,2.7-1.3,4-3.9,4H8.3l-1-4.8h4.9c0.7,0,1-0.3,1-1v-50.8h4.7
+		c1.3,0.2,1.4,0.7,0.2,1.5v7.3c0,3.7,1.4,8.1,4.2,13.1c3.8-2.7,7.9-6.9,12.5-12.6l4.4,4.5c0.8,1.3,0.3,1.9-1.5,1.5
+		c-3.9,3.7-8.3,7.3-13.2,10.9c4.7,8.6,11,15.5,18.9,20.7L40.4-204.3L40.4-204.3z M9.7-239.2c-2.6,16-9.4,27.6-20.3,34.9l-2.7-5.3
+		c9-5.2,14.9-14.6,17.6-28H-9.9v-4.8H4.3l1.5-2l4.2,3C11.1-240.8,11-240,9.7-239.2L9.7-239.2z"/>
+</g>
+<g id="g12098" transform="translate(377.55704,665.59415)">
+	
+		<radialGradient id="SVGID_4_" cx="-41.627" cy="-590.2512" r="26.5" gradientTransform="matrix(1.8868 0 0 -1.8868 93.5416 -1342.4723)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFF101"/>
+		<stop  offset="1" style="stop-color:#CCC000"/>
+	</radialGradient>
+	<path sodipodi:nodetypes="ccccccccc" class="st3" d="M-32.2-247.7L-3.9-276h37.7l28.3,28.3v37.7l-28.3,28.3H-3.9l-28.3-28.3V-247.7
+		z"/>
+	<path d="M32.8-201.3v-2H-2.5v2.8H-7v-26h44.2v25.2H32.8z M-2.5-222.4v5.1h15.3v-5.1H-2.5z M17.2-213.2v5.9h15.5v-5.9H17.2z
+		 M-2.5-213.2v5.9h15.3v-5.9H-2.5z M17.2-222.4v5.1h15.5v-5.1H17.2z M20.4-234.4h15.5v3.1H20.4V-234.4z M20.4-241h15.5v3.1H20.4
+		V-241z M-5.9-234.4H9.6v3.1H-5.9V-234.4z M-5.9-241H9.6v3.1H-5.9V-241z M12.8-248.7v-4.3H-8.3v-4.1h46.6v4.1H17.2v4.3h26.1v11h-4.5
+		v-6.9H17.2v15.8h-4.5v-15.8H-8.8v7.1h-4.5v-11.2H12.8z"/>
+</g>
+<g id="g12122" transform="translate(260,303.79074)">
+	
+		<radialGradient id="SVGID_5_" cx="-210" cy="196.6345" r="50" gradientTransform="matrix(1 0 0 -1 225 -32.1563)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FF0000"/>
+		<stop  offset="1" style="stop-color:#B00000"/>
+	</radialGradient>
+	<path sodipodi:nodetypes="ccccccccc" class="st4" d="M-32.2-247.7L-3.9-276h37.7l28.3,28.3v37.7l-28.3,28.3H-3.9l-28.3-28.3V-247.7
+		z"/>
+	<path d="M14.9-224.6c-3.7,11-12,19-25,24.1l-3.1-6.3C3-211.9,11.2-222,11.2-237v-20.1l6,0.5c1,0.3,1,1,0,2v17.5
+		c0,13,8.7,22.8,26.1,29.4l-2.6,6.3C27.7-206.3,19-214.1,14.9-224.6L14.9-224.6z M38.3-241.4c-3.3,6.8-6.1,11.6-8.3,14.5l-5.2-3.3
+		c3.1-4.1,6-9.3,8.6-15.7l5.7,2.8C40.2-242.6,39.9-242,38.3-241.4L38.3-241.4z M-8.9-227.9c2.4-4.4,3.6-10.1,3.4-17l6.5,1.5
+		c1.4,0.5,1.4,1.1,0,1.8c0,4.9-1.1,10.2-3.4,15.7L-8.9-227.9z"/>
+</g>
+<g id="Line1" sodipodi:cx="361.42856" sodipodi:cy="509.50504" sodipodi:end="0.57595865" sodipodi:open="true" sodipodi:rx="301.42856" sodipodi:ry="294.28571" sodipodi:start="0" sodipodi:type="arc">
+	<g>
+		<path class="st5" d="M336.8,84.8c29.1,9.4,55.5,25.4,77.3,46.5"/>
+		<g>
+			<polygon points="391.8,126.7 411,128.8 409.8,109.6 430.4,149.1 			"/>
+			<polygon class="st6" points="398.6,128.6 427.2,145.7 412.6,130.5 			"/>
+		</g>
+	</g>
+</g>
+<g id="Line2" sodipodi:cx="361.42856" sodipodi:cy="509.50504" sodipodi:end="0.57595865" sodipodi:open="true" sodipodi:rx="301.42856" sodipodi:ry="294.28571" sodipodi:start="0" sodipodi:type="arc">
+	<g>
+		<path class="st5" d="M475,275c0,30.6-7,60.6-20.4,87.9"/>
+		<g>
+			<polygon points="452.1,340.3 456.1,359.2 474,352.1 442.7,383.9 			"/>
+			<polygon class="st6" points="452.4,347.4 445,379.8 455,361.2 			"/>
+		</g>
+	</g>
+</g>
+<g id="Line3" sodipodi:cx="361.42856" sodipodi:cy="509.50504" sodipodi:end="0.57595865" sodipodi:open="true" sodipodi:rx="301.42856" sodipodi:ry="294.28571" sodipodi:start="0" sodipodi:type="arc">
+	<g>
+		<path class="st5" d="M336.8,465.2c-29.1,9.4-59.8,12.1-89.9,7.8"/>
+		<g>
+			<polygon points="267.6,463.6 250.9,473.2 263.2,488.1 223.2,468.2 			"/>
+			<polygon class="st6" points="261,466.1 227.9,469 248.7,472.8 			"/>
+		</g>
+	</g>
+</g>
+<g id="Line4" sodipodi:cx="361.42856" sodipodi:cy="509.50504" sodipodi:end="0.57595865" sodipodi:open="true" sodipodi:rx="301.42856" sodipodi:ry="294.28571" sodipodi:start="0" sodipodi:type="arc">
+	<g>
+		<path class="st5" d="M113.2,392.6c-18-24.7-30-53.2-35.2-83.1"/>
+		<g>
+			<polygon points="93.3,326.3 79,313.3 68.7,329.6 75.3,285.5 			"/>
+			<polygon class="st6" points="88.9,320.7 75.9,290.1 78.7,311.1 			"/>
+		</g>
+	</g>
+</g>
+<g id="Line5" sodipodi:cx="361.42856" sodipodi:cy="509.50504" sodipodi:end="0.57595865" sodipodi:open="true" sodipodi:rx="301.42856" sodipodi:ry="294.28571" sodipodi:start="0" sodipodi:type="arc">
+	<g>
+		<path class="st5" d="M113.2,157.4c18-24.7,41.3-44.9,68.1-59.2"/>
+		<g>
+			<polygon points="170.1,118.1 178,100.5 159.3,95.6 203.3,88.3 			"/>
+			<polygon class="st6" points="174,112.2 199.1,90.3 180,99.5 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path d="M238.9,164.1h-2.4V142h2.4v9.4l5.9-9.4h2.7l-6,9.5l6.4,12.6h-2.6l-5.2-10.3l-1.1,1.8V164.1z"/>
+	<path d="M254.9,142h3.6l5,22.1h-2.4l-1.2-5.1h-6.5l-1.2,5.1h-2.4L254.9,142z M256.7,144.6l-2.8,12.3h5.6L256.7,144.6z"/>
+	<path d="M275,142v2h-4.4v20.1h-2.4V144h-4.4v-2H275z"/>
+	<path d="M290.5,146.2v13.6c0,1.5-0.5,2.7-1.4,3.5c-1,0.8-2.4,1.2-4.3,1.2c-1.9,0-3.4-0.4-4.3-1.2s-1.5-2-1.5-3.5v-13.6
+		c0-1.5,0.5-2.7,1.4-3.5c1-0.8,2.4-1.2,4.3-1.2c1.9,0,3.4,0.4,4.3,1.2C290,143.5,290.5,144.7,290.5,146.2z M288.1,159.8v-13.6
+		c0-1.8-1.1-2.7-3.4-2.7s-3.4,0.9-3.4,2.7v13.6c0,1.8,1.1,2.7,3.4,2.7S288.1,161.6,288.1,159.8z"/>
+	<path d="M299.2,164.1h-2.4V142h2.4l7.4,17v-17h2.4v22.1h-2.4l-7.4-17V164.1z"/>
+</g>
+<g>
+	<path d="M151.4,243.5c0,3.2-1.9,4.8-5.7,4.8s-5.7-1.6-5.7-4.8v-2.9h2.4v3c0,0.8,0.3,1.5,0.9,1.9c0.6,0.5,1.4,0.7,2.5,0.7
+		c1.1,0,1.9-0.2,2.5-0.7c0.6-0.5,0.9-1.1,0.9-1.9s-0.1-1.4-0.3-1.9c-0.2-0.5-0.5-1-1-1.5l-6-5.8c-0.7-0.7-1.2-1.4-1.4-2.1
+		c-0.3-0.7-0.4-1.5-0.4-2.5c0-1.5,0.5-2.7,1.4-3.5c0.9-0.8,2.4-1.2,4.3-1.2c3.6,0,5.5,1.6,5.5,4.8v2.9h-2.4v-3
+		c0-0.8-0.3-1.5-0.8-1.9c-0.5-0.5-1.3-0.7-2.4-0.7s-1.9,0.2-2.4,0.7c-0.5,0.5-0.8,1.1-0.8,1.9c0,0.8,0.1,1.4,0.2,1.9
+		c0.2,0.5,0.5,0.9,1.1,1.4l6.1,5.8c0.7,0.7,1.1,1.4,1.4,2.1C151.3,241.7,151.4,242.5,151.4,243.5z"/>
+	<path d="M166.4,243.5v-17.9h2.4v17.9c0,1.5-0.5,2.7-1.4,3.5s-2.4,1.2-4.3,1.2c-1.9,0-3.4-0.4-4.3-1.2c-1-0.8-1.5-2-1.5-3.5v-17.9
+		h2.4v17.9c0,1.8,1.1,2.7,3.4,2.7S166.4,245.3,166.4,243.5z"/>
+	<path d="M180,245.7v2h-5.8v-2h1.7v-18h-1.7v-2h5.8v2h-1.7v18H180z"/>
+	<path d="M194.6,225.7v2h-4.4v20.1h-2.4v-20.1h-4.4v-2H194.6z"/>
+	<path d="M210.1,229.9v13.6c0,1.5-0.5,2.7-1.4,3.5c-1,0.8-2.4,1.2-4.3,1.2c-1.9,0-3.4-0.4-4.3-1.2s-1.5-2-1.5-3.5v-13.6
+		c0-1.5,0.5-2.7,1.4-3.5c1-0.8,2.4-1.2,4.3-1.2c1.9,0,3.4,0.4,4.3,1.2C209.6,227.2,210.1,228.4,210.1,229.9z M207.7,243.5v-13.6
+		c0-1.8-1.1-2.7-3.4-2.7s-3.4,0.9-3.4,2.7v13.6c0,1.8,1.1,2.7,3.4,2.7S207.7,245.3,207.7,243.5z"/>
+	<path d="M218.8,247.8h-2.4v-22.1h2.4l7.4,17v-17h2.4v22.1h-2.4l-7.4-17V247.8z"/>
+</g>
+<g>
+	<path d="M334.4,247.8h-2.4v-22.1h9.3v2h-7v7.8h5.6v2h-5.6V247.8z"/>
+	<path d="M355,243.5v-17.9h2.4v17.9c0,1.5-0.5,2.7-1.4,3.5c-1,0.8-2.4,1.2-4.3,1.2s-3.4-0.4-4.3-1.2s-1.5-2-1.5-3.5v-17.9h2.4v17.9
+		c0,1.8,1.1,2.7,3.4,2.7S355,245.3,355,243.5z M347.9,222.6v-2h7.3v2H347.9z"/>
+	<path d="M372.7,225.7v2h-4.4v20.1h-2.4v-20.1h-4.4v-2H372.7z"/>
+	<path d="M388.2,229.9v13.6c0,1.5-0.5,2.7-1.4,3.5c-1,0.8-2.4,1.2-4.3,1.2c-1.9,0-3.4-0.4-4.3-1.2s-1.5-2-1.5-3.5v-13.6
+		c0-1.5,0.5-2.7,1.4-3.5c1-0.8,2.4-1.2,4.3-1.2c1.9,0,3.4,0.4,4.3,1.2C387.7,227.2,388.2,228.4,388.2,229.9z M385.8,243.5v-13.6
+		c0-1.8-1.1-2.7-3.4-2.7s-3.4,0.9-3.4,2.7v13.6c0,1.8,1.1,2.7,3.4,2.7S385.8,245.3,385.8,243.5z"/>
+	<path d="M396.8,247.8h-2.4v-22.1h2.4l7.4,17v-17h2.4v22.1h-2.4l-7.4-17V247.8z"/>
+</g>
+<g>
+	<path d="M298,375.3h-2.4v-22.1h5.1c1.8,0,3.1,0.4,4,1.3s1.4,2,1.4,3.5v4.8c0,2.3-1,3.8-3,4.4l4.2,8.2h-2.6l-4-7.8H298V375.3z
+		 M303.8,362.8V358c0-0.9-0.3-1.5-0.8-2c-0.5-0.5-1.3-0.7-2.2-0.7H298v10.2h2.8C302.8,365.5,303.8,364.6,303.8,362.8z"/>
+	<path d="M315.1,353.2h3.6l5,22.1h-2.4l-1.2-5.1h-6.5l-1.2,5.1h-2.4L315.1,353.2z M316.9,355.9l-2.8,12.3h5.6L316.9,355.9z"/>
+	<path d="M333.2,373.3v2h-5.8v-2h1.7v-18h-1.7v-2h5.8v2h-1.7v18H333.2z"/>
+	<path d="M347.8,353.2v2h-4.4v20.1H341v-20.1h-4.4v-2H347.8z"/>
+	<path d="M363.3,357.5v13.6c0,1.5-0.5,2.7-1.4,3.5c-1,0.8-2.4,1.2-4.3,1.2c-1.9,0-3.4-0.4-4.3-1.2s-1.5-2-1.5-3.5v-13.6
+		c0-1.5,0.5-2.7,1.4-3.5c1-0.8,2.4-1.2,4.3-1.2c1.9,0,3.4,0.4,4.3,1.2C362.8,354.8,363.3,356,363.3,357.5z M360.9,371.1v-13.6
+		c0-1.8-1.1-2.7-3.4-2.7s-3.4,0.9-3.4,2.7v13.6c0,1.8,1.1,2.7,3.4,2.7S360.9,372.9,360.9,371.1z"/>
+	<path d="M372,375.3h-2.4v-22.1h2.4l7.4,17v-17h2.4v22.1h-2.4l-7.4-17V375.3z"/>
+</g>
+<g>
+	<path d="M170.3,375.3h-5.5v-22.1h5.5c1.8,0,3.1,0.4,4,1.3c0.9,0.8,1.4,2,1.4,3.5v12.6c0,1.5-0.5,2.7-1.4,3.5
+		C173.4,374.9,172.1,375.3,170.3,375.3z M173.3,370.6V358c0-0.7-0.3-1.4-0.8-1.9c-0.5-0.5-1.3-0.8-2.2-0.8h-3.1v18h3.1
+		c1,0,1.7-0.3,2.2-0.8C173,372,173.3,371.3,173.3,370.6z"/>
+	<path d="M193,357.5v13.6c0,1.5-0.5,2.7-1.4,3.5s-2.4,1.2-4.3,1.2c-1.9,0-3.4-0.4-4.3-1.2c-1-0.8-1.5-2-1.5-3.5v-13.6
+		c0-1.5,0.5-2.7,1.4-3.5c1-0.8,2.4-1.2,4.3-1.2s3.4,0.4,4.3,1.2C192.5,354.8,193,356,193,357.5z M190.7,371.1v-13.6
+		c0-1.8-1.1-2.7-3.4-2.7s-3.4,0.9-3.4,2.7v13.6c0,1.8,1.1,2.7,3.4,2.7S190.7,372.9,190.7,371.1z"/>
+	<path d="M208.2,353.2v2h-4.4v20.1h-2.4v-20.1h-4.4v-2H208.2z"/>
+	<path d="M223.6,357.5v13.6c0,1.5-0.5,2.7-1.4,3.5c-1,0.8-2.4,1.2-4.3,1.2c-1.9,0-3.4-0.4-4.3-1.2s-1.5-2-1.5-3.5v-13.6
+		c0-1.5,0.5-2.7,1.4-3.5c1-0.8,2.4-1.2,4.3-1.2c1.9,0,3.4,0.4,4.3,1.2C223.1,354.8,223.6,356,223.6,357.5z M221.3,371.1v-13.6
+		c0-1.8-1.1-2.7-3.4-2.7s-3.4,0.9-3.4,2.7v13.6c0,1.8,1.1,2.7,3.4,2.7S221.3,372.9,221.3,371.1z"/>
+	<path d="M232.3,375.3h-2.4v-22.1h2.4l7.4,17v-17h2.4v22.1h-2.4l-7.4-17V375.3z"/>
+</g>
+</svg>
